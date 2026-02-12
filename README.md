@@ -1,4 +1,4 @@
-# 👋 Hi, I'm CERINE MARIA CHALABI
+# CERINE MARIA CHALABI
 
 ### 💻 Full-Stack web Developer | 📊 Big Data Student | 🛡️ Security-Conscious Coder
 
