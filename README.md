@@ -1,17 +1,17 @@
 # 👋 Hi, I'm CERINE MARIA CHALABI
 
-### 💻 Full-Stack Developer | 📊 Big Data Student | 🛡️ Security-Conscious Coder
+### 💻 Full-Stack web Developer | 📊 Big Data Student | 🛡️ Security-Conscious Coder
 
-[cite_start]I am a Full-Stack Developer with a deep foundation in **Network Security**[cite: 2, 8]. [cite_start]I specialize in building robust web applications and am currently exploring the intersection of **Web Development** and **Big Data Analytics**[cite: 9, 32].
+I am a Full-Stack Developer with a deep foundation in **Network Security** I specialize in building robust web applications and am currently exploring the intersection of **Web Development** and **Big Data Analytics**.
 
 ---
 
 ## 🚀 About Me
 
-- [cite_start]🎓 **Currently Pursuing:** Master’s in **Big Data Analytics** at USTHB[cite: 12, 13].
-- [cite_start]🛡️ **Background:** Bachelor’s degree in **Networks and Telecommunications**[cite: 14].
-- [cite_start]🔧 **Core Focus:** Creating seamless user experiences with a focus on data integrity and application security[cite: 8, 32].
-- [cite_start]🌐 **Goal:** Building scalable web architectures that leverage big data insights[cite: 9, 39, 41].
+- 🎓 **Currently Pursuing:** Master’s in **Big Data Analytics** at USTHB.
+- 🛡️ **Background:** Bachelor’s degree in **Networks and Telecommunications**.
+- 🔧 **Core Focus:** Creating seamless user experiences with a focus on data integrity and application security.
+- 🌐 **Goal:** Building scalable web architectures that leverage big data insights.
 
 ---
 
@@ -31,9 +31,9 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Infrastructure & Security**
-- [cite_start]**Security Tools:** pfSense, Suricata ($IDS/IPS$), Firewall Configuration[cite: 32].
-- [cite_start]**Networking:** $TCP/IP$ OSI Model, Network Segmentation[cite: 32].
-- [cite_start]**Tools:** Git/GitHub, VS Code, VMware, Docker[cite: 32].
+- **Security Tools:** pfSense, Suricata ($IDS/IPS$), Firewall Configuration.
+- **Networking:** $TCP/IP$ OSI Model, Network Segmentation.
+- **Tools:** Git/GitHub, VS Code, VMware, Docker.
 
 ---
 
@@ -51,9 +51,9 @@
 ```python
 class Cerine:
     def __init__(self):
-        [cite_start]self.stack = ["React", "Node.js", "Flask", "Tailwind"] # [cite: 32]
-        self.studying = "Big Data Analytics" # [cite: 12]
-        self.security_mode = True # [cite: 2, 32]
+        [cite_start]self.stack = ["React", "Node.js", "Flask", "Tailwind"] 
+        self.studying = "Big Data Analytics"
+        self.security_mode = True 
 
     def get_mission(self):
         return "Building secure, data-driven web solutions."
